@@ -1,1 +1,1 @@
-# Chatbot_html_css_javascript
+# Chatbot (Using HTML, JavaScript and CSS)
