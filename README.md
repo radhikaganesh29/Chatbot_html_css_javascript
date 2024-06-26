@@ -2,6 +2,9 @@
 
 This is a simple web-based chatbot application built using HTML, CSS, and JavaScript. It utilizes the OpenAI GPT-3.5-turbo model to generate responses to user inputs. The chatbot interface is designed to be easily integrated into any webpage.
 
+<img width="512" alt="Screenshot 2024-06-26 at 12 05 09 PM" src="https://github.com/radhikaganesh29/Chatbot_html_css_javascript/assets/158646026/5324fb27-4f72-4a23-9f4d-43ba1f96871b">
+
+
 ## Features
 
 - Interactive chatbot with a user-friendly interface.
